@@ -12,4 +12,4 @@ Attack on Titan is an anime where you will kill the titan breaching the wall of 
 -Eren Yeager
 -Mikasa Ackerman
 
-[Learn more about Spider-Man] (https://www.AttackonTitan.com/)
+[Learn more Attack on titan] (https://www.AttackonTitan.com/)
